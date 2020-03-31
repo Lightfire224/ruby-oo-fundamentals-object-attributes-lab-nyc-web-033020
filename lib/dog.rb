@@ -7,5 +7,7 @@ class Dog
     puts @name
   end
   
+  def name
+  
 end
 
