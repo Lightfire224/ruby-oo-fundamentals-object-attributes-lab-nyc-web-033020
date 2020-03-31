@@ -1,6 +1,5 @@
 class Dog
-  
-   initialize(name)
+  initialize(name)
     @name = name
   end
   
